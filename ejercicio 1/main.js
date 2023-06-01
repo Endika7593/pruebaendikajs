@@ -2,8 +2,6 @@ function contarLetras (oracion, letra) {
     let contador = 0;
 
 
-
-
 letra= letra.toLowerCase()
 
 for (let i = 0; i < oracion.length; i++) {
@@ -23,7 +21,7 @@ return contador;
 }
 
 
-// let oracion = "El Athletic es una cuadrilla de maulas"
+// let oracion = "El Athletic es una cuadrilla de maulas."
 // let letraRepetida = "a";
 // let resultado = contarLetra(oracion, letraRepetida)
 
@@ -60,7 +58,7 @@ return contador;
 
     //oraciones
 
-    //let oracion = "El Athletic es una cuadrilla de maulas"
+    //let oracion = "El Athletic es una cuadrilla de maulas."
     //let letraRepetida = "e";
     //let resultado = contarLetra(oracion, letraRepetida);
 

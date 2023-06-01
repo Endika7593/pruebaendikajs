@@ -17,9 +17,9 @@ let numeroUsuario = parseInt(prompt("Ingrese el número:"));
 if (!isNaN(numeroUsuario)) {
     imprimirImpares(numeroUsuario); 
 } else {
-    console.log("No es correcto. Introduzca un valor válido");
+    console.log("No es correcto. Introduzca un valor válido:");
 }
 
 
 
-//otra solucion
+//otra solucion no me da tiempo
